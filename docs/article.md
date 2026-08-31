@@ -8,7 +8,7 @@
 
 A model score is not a decision.
 
-Suppose a fraud model assigns the same 100,000 transactions the same risk scores. One team reviews the highest probabilities. Another ranks by expected loss. A third accounts for review cost and customer friction.
+Suppose a fraud model produces one set of risk scores for 100,000 transactions. One team reviews the highest probabilities. Another ranks by expected loss. A third accounts for review cost and customer friction.
 
 The model has not changed. The operational outcome can.
 
