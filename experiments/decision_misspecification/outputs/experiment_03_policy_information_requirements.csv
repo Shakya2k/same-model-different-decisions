@@ -1,0 +1,8 @@
+policy,information_required,uses_estimated_exposure,uses_estimated_fp_action_cost,can_abstain,oracle_or_deployable
+B_topk_probability,prediction probability p only,False,False,False,deployable
+C_oracle,p + true economic loss exposure v,False,False,False,oracle_reference
+C_est,p + estimated exposure v_hat,True,False,False,deployable
+D1_oracle,"p + true v,f,e,r (full decision economics)",False,False,False,oracle_reference
+D2_oracle,same as D1_oracle + abstain if benefit≤0,False,False,True,oracle_reference
+D1_est,"p + estimated v_hat,f_hat,e_hat,r_hat",True,True,False,deployable
+D2_est,same as D1_est + abstain if estimated benefit≤0,True,True,True,deployable

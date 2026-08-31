@@ -1,0 +1,11 @@
+condition,comparison,mean_delta,ci95_low,ci95_high,zero_status,practical_class,relative_pct
+VALUE_NOISE_LOW,C_est_vs_B,-69944.37299999999,-74303.91429491642,-65584.83170508356,excludes_0_negative,outside_1pct_practical_band,-10.66590677010102
+VALUE_NOISE_LOW,D1_est_vs_B,-76098.5775,-80311.69219007232,-71885.46280992767,excludes_0_negative,outside_1pct_practical_band,-11.60436927431328
+VALUE_NOISE_LOW,D2_est_vs_B,-78371.93350000001,-82419.03761047094,-74324.82938952908,excludes_0_negative,outside_1pct_practical_band,-11.95103623423084
+VALUE_NOISE_LOW,D1_est_vs_C_est,-6154.204500000004,-7545.951393108855,-4762.457606891154,excludes_0_negative,outside_1pct_practical_band,-1.0505087926477843
+VALUE_NOISE_LOW,D2_est_vs_C_est,-8427.560500000003,-9796.144597443661,-7058.976402556346,excludes_0_negative,outside_1pct_practical_band,-1.4385655214774151
+VALUE_NOISE_HIGH,C_est_vs_B,-58194.73049999999,-62441.53811932566,-53947.92288067432,excludes_0_negative,outside_1pct_practical_band,-8.874188778905122
+VALUE_NOISE_HIGH,D1_est_vs_B,-66663.028,-70642.40983452651,-62683.64616547351,excludes_0_negative,outside_1pct_practical_band,-10.165530280193291
+VALUE_NOISE_HIGH,D2_est_vs_B,-69798.46599999999,-73837.7381373755,-65759.19386262447,excludes_0_negative,outside_1pct_practical_band,-10.643657225321984
+VALUE_NOISE_HIGH,D1_est_vs_C_est,-8468.29750000001,-9642.985509752234,-7293.609490247785,excludes_0_negative,outside_1pct_practical_band,-1.4170973997203045
+VALUE_NOISE_HIGH,D2_est_vs_C_est,-11603.735500000004,-12866.362659424354,-10341.108340575654,excludes_0_negative,outside_1pct_practical_band,-1.94178622138537

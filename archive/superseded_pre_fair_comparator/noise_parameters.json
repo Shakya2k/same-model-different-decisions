@@ -1,0 +1,18 @@
+{
+  "SIGMA_VALUE_LOW": 0.1980422004353651,
+  "SIGMA_VALUE_HIGH": 0.47238072707743883,
+  "SIGMA_FP_LOW": 0.1980422004353651,
+  "SIGMA_FP_HIGH": 0.47238072707743883,
+  "SIGMA_JOINT_V": 0.293560379208524,
+  "SIGMA_JOINT_F": 0.293560379208524,
+  "cv_low_target": 0.2,
+  "cv_high_target": 0.5,
+  "cv_joint_target": 0.3,
+  "mean_one": true,
+  "mu_formula": "-sigma^2/2",
+  "E_TRUE_DEFAULT": 0.8,
+  "E_HAT_OPTIMISTIC": 1.0,
+  "E_HAT_PESSIMISTIC": 0.6,
+  "E_HAT_JOINT": 0.9,
+  "REVIEW_COST_PER_CASE": 25.0
+}

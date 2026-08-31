@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+*.egg-info/
+dist/
+build/
+
+# Regenerable large Exp02 grids (see README for how to rebuild)
+experiments/threshold_capacity/outputs/experiment_02_full_multiseed.csv
+experiments/threshold_capacity/outputs/experiment_02_full.csv
+
+# Keep private research paths out of this staging repository
+notes/
+evidence/
+review/
+playbook/
+PUBLICATION_READINESS.md

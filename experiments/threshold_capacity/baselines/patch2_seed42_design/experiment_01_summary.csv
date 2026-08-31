@@ -1,0 +1,5 @@
+review_volume,precision_among_reviewed,fraud_dollars_captured,fraud_loss_remaining,fp_intervention_cost,review_cost,total_system_cost,capacity_utilization,policy,same_predictions
+867,0.5813,62755.18,549613.13,15876.42,21675.0,587164.55,0.4335,A_fixed_threshold_fifo,Yes
+2000,0.466,115221.2,497147.11,46579.13,50000.0,593726.23,1.0,B_topk_probability,Yes
+2000,0.2765,195374.57,416993.74,62731.51,50000.0,529725.25,1.0,C_expected_exposure,Yes
+2000,0.3025,192958.37,419409.94,53536.32,50000.0,522946.26,1.0,D_cost_aware,Yes

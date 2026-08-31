@@ -1,0 +1,13 @@
+T,policy,total_system_cost
+1.0,B_topk_probability,606927.53
+1.0,C_expected_exposure,521769.61
+1.0,D1_cost_aware_topk,516336.73
+1.0,D2_cost_aware_abstention,516336.73
+1.5,B_topk_probability,606927.53
+1.5,C_expected_exposure,538753.42
+1.5,D1_cost_aware_topk,533833.95
+1.5,D2_cost_aware_abstention,533833.95
+2.5,B_topk_probability,606927.53
+2.5,C_expected_exposure,579187.44
+2.5,D1_cost_aware_topk,570270.86
+2.5,D2_cost_aware_abstention,570270.86

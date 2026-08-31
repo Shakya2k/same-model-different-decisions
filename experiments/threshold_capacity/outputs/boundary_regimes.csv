@@ -1,0 +1,3 @@
+regime,all_topk_positive_benefit,bcd1d2_masks_identical,min_topk_benefit,B_volume,D1_volume,D2_volume,D1_eq_B,D2_subset_positive,rank_corr_p_benefit
+homogeneous_high_v_positive_EV_topk,True,True,260.7807485035094,,,,,,
+homogeneous_modest_v_abstention_possible,,,,2000.0,2000.0,1129.0,True,True,1.0
